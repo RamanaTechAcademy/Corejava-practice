@@ -1,7 +1,7 @@
-Complie java
+##Complie java
 *********************
 Syntax: javac filename.java
 
-run Java
+##run Java
 **********************
 Syntax: java className
